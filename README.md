@@ -22,6 +22,6 @@ You can access the project presentation [here](https://docs.google.com/presentat
 - **Dataset**: Titanic dataset from Kaggle.  
 - **Models Used**: Logistic Regression, KNN, Decision Tree, SVM, Naive Bayes.  
 - **Feature Scaling**: StandardScaler, MinMaxScaler, RobustScaler.  
-- **Best Model**: SVM with StandardScaler (accuracy: 0.816).
+- **Best Model**: SVM with StandardScaler (accuracy: 0.820).
 
 ---
