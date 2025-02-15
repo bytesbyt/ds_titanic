@@ -16,3 +16,7 @@ You can access the project presentation [here](https://docs.google.com/presentat
 - **Models Used**: Logistic Regression, KNN, Decision Tree, SVM, Naive Bayes.  
 - **Feature Scaling**: StandardScaler, MinMaxScaler, RobustScaler.  
 - **Best Model**: KNN with RobustScaler (accuracy score: 0.831).
+
+Below is a quick visual of the model accuracies:
+
+![Model Accuracy](model_accuracy.png)
